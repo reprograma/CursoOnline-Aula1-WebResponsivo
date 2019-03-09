@@ -17,7 +17,7 @@ Essa tag vai passar instruções para o browser renderizar o conteúdo do site c
 
 |Tamanho dos dispositvos|
 |--------------|
-|Mobile: 400px|
+|Mobile: 368px|
 |Desktop: 1280px|
 |Tablet: 768px|
 
