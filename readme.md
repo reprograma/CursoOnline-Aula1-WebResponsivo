@@ -42,3 +42,4 @@ Através das media queries
 * Método bem: https://tableless.com.br/bem-um-novo-metodo-para-seu-css/
 * Site para  ícones fofos: https://www.flaticon.com/
 * Para pegar aquelas imagens dignas de aplausos: https://unsplash.com/
+* Aprenda a fazer um readme: https://dillinger.io/
