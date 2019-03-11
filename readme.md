@@ -34,8 +34,7 @@ Através das media queries
 <!--código aqui-->
 }
 ```
-Leia-se minímo de 368px até o máximo de 768px 
-Ou seja, indo do modo mobile até tablet
+#### Leia-se minímo de 368px até o máximo de 768px. Ou seja, indo do modo mobile até tablet
 ---------
 ### Para dar aquele help
 
