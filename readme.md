@@ -11,7 +11,7 @@ Essa tag vai passar instruções para o browser renderizar o conteúdo do site c
 ```sh
  <meta name="viewport" content="width=device-width, initial-scale=1">
 ```
-
+------
 ##### Layoult Fluído
 É sair do mundo dos pixels e entrar no mundo maravilhoso que é a porcentagem
 
@@ -21,7 +21,11 @@ Essa tag vai passar instruções para o browser renderizar o conteúdo do site c
 |Desktop: 1280px|
 |Tablet: 768px|
 
-##### Enfim e como utilizar o design responsivo ?
+##### Lembrando sempre que são medidas relativas, o cenário de medidas está variando muito 😊
+
+----------
+
+##### Enfim e como utilizar o design responsivo ?🤔
 
 Através das media queries 
 
@@ -31,4 +35,11 @@ Através das media queries
 }
 ```
 Leia-se minímo de 368px até o máximo de 768px 
-Ou seja, indo de mobile até a medida de tablet 
+Ou seja, indo do modo mobile até tablet
+---------
+### Para dar aquele help
+
+* Alguns links úteis: https://bit.ly/2SZFvCW
+* Método bem: https://tableless.com.br/bem-um-novo-metodo-para-seu-css/
+* Site para  ícones fofos: https://www.flaticon.com/
+* Para pegar aquelas imagens dignas de aplausos: https://unsplash.com/
